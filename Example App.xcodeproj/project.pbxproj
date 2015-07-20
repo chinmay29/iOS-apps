@@ -13,6 +13,7 @@
 		82F5E3FA1B5D6B3A006A9497 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 82F5E3F91B5D6B3A006A9497 /* Images.xcassets */; };
 		82F5E3FD1B5D6B3A006A9497 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 82F5E3FB1B5D6B3A006A9497 /* LaunchScreen.xib */; };
 		82F5E4091B5D6B3A006A9497 /* Example_AppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 82F5E4081B5D6B3A006A9497 /* Example_AppTests.swift */; };
+		82F5E4131B5D91AA006A9497 /* 197388_ts.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 82F5E4121B5D91AA006A9497 /* 197388_ts.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		82F5E4021B5D6B3A006A9497 /* Example AppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Example AppTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		82F5E4071B5D6B3A006A9497 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		82F5E4081B5D6B3A006A9497 /* Example_AppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Example_AppTests.swift; sourceTree = "<group>"; };
+		82F5E4121B5D91AA006A9497 /* 197388_ts.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = 197388_ts.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 				82F5E3F41B5D6B3A006A9497 /* ViewController.swift */,
 				82F5E3F61B5D6B3A006A9497 /* Main.storyboard */,
 				82F5E3F91B5D6B3A006A9497 /* Images.xcassets */,
+				82F5E4121B5D91AA006A9497 /* 197388_ts.jpg */,
 				82F5E3FB1B5D6B3A006A9497 /* LaunchScreen.xib */,
 				82F5E3F01B5D6B3A006A9497 /* Supporting Files */,
 			);
@@ -194,6 +197,7 @@
 			files = (
 				82F5E3F81B5D6B3A006A9497 /* Main.storyboard in Resources */,
 				82F5E3FD1B5D6B3A006A9497 /* LaunchScreen.xib in Resources */,
+				82F5E4131B5D91AA006A9497 /* 197388_ts.jpg in Resources */,
 				82F5E3FA1B5D6B3A006A9497 /* Images.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
